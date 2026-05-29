@@ -39,7 +39,17 @@ Produção de materiais didáticos e apoio educacional voltados para formação 
 * Aulas e monitorias
 
 ---
+🏅 Certificados e Conquistas
+Esta seção reúne certificados de participação, menções e reconhecimentos obtidos em olimpíadas científicas, atividades acadêmicas e experiências formativas ao longo da trajetória educacional.
 
+Os documentos têm caráter de comprovação de participação e desempenho em atividades como:
+
+Olimpíadas científicas (ex: OBA e outras competições acadêmicas)
+Atividades de monitoria e apoio acadêmico
+Projetos e iniciativas de ensino e divulgação científica
+Experiências formativas em instituições e programas educacionais
+
+📁 Os certificados podem ser encontrados organizados na pasta certificados/, quando aplicável.
 ## 🌠 GEDUC / Fórum AdAstra
 
 Participação em iniciativas de ensino e produção de materiais de apoio para formação científica.
