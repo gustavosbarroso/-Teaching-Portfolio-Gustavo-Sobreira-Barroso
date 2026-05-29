@@ -1,142 +1,213 @@
 # 🌌 Teaching Portfolio — Gustavo Sobreira Barroso
 
-Repositório dedicado à organização de materiais didáticos produzidos ao longo de atividades de ensino, monitoria, olimpíadas científicas e divulgação científica em astronomia, astrofísica, física e matemática.
+Undergraduate Student in Physical Engineering at UNICAMP
+
+Repository dedicated to the organization and dissemination of educational materials produced through teaching activities, university tutoring, scientific olympiads, outreach initiatives, and academic projects in Astronomy, Astrophysics, Physics, and Mathematics.
 
 ---
 
-# 📚 Sobre
+# 📚 About
 
-Este repositório reúne apostilas, listas de exercícios, resoluções comentadas, gabaritos e materiais de apoio desenvolvidos para ensino e preparação científica.
+This repository serves as an academic and educational portfolio, gathering materials developed throughout my undergraduate studies, teaching experiences, olympiad training activities, and scientific outreach projects.
 
-Grande parte dos materiais foi construída a partir de adaptações, reorganizações e compilações de referências acadêmicas, listas olímpicas e notas de aula, com foco em clareza pedagógica, estruturação didática e acessibilidade ao estudante.
+The collection includes lecture notes, book chapters, problem sets, commented solutions, olympiad materials, educational resources, certificates, and academic achievements.
 
-Os conteúdos possuem foco em:
+Many of the materials were developed from academic references, lecture notes, olympiad problems, and educational resources, being adapted and reorganized with emphasis on:
 
-* Astronomia e Astrofísica
-* Olimpíadas Científicas
-* Física
-* Matemática
-* Geometria Analítica
-* Mecânica Celeste
-* Cosmologia
-* Divulgação Científica
+* Pedagogical clarity
+* Conceptual rigor
+* Problem-solving skills
+* Scientific communication
+* Accessibility for students
+
+### Main Areas
+
+* Astronomy
+* Astrophysics
+* Physics
+* Mathematics
+* Analytical Geometry
+* Celestial Mechanics
+* Cosmology
+* Scientific Olympiads
+* Science Education
+* Scientific Outreach
 
 ---
 
-# 👨‍🏫 Experiência em Ensino
+# 📊 Portfolio Highlights
+
+* 👨‍🏫 Monitor of Analytical Geometry (MA141 — UNICAMP)
+* ⚙️ Monitor of Physics I (UNICAMP)
+* 🔭 Development of educational materials in Astronomy and Astrophysics
+* 🏅 Participation in the preparation of commented solutions for OBA 2026
+* 📚 Production of lecture notes, problem sets, and educational book chapters
+* 🌠 Participation in scientific outreach and olympiad training projects
+* 🎓 Experience in tutoring Physics and Calculus
+
+---
+
+# 👨‍🏫 Teaching Experience
 
 ## 🔭 Ampulheta do Saber
 
-Produção de materiais didáticos e apoio educacional voltados para formação em astronomia e preparação para olimpíadas científicas.
+Educational initiative focused on Astronomy education and scientific olympiad preparation.
 
-### Atividades
+### Activities
 
-* Desenvolvimento e adaptação de apostilas
-* Produção de listas de exercícios
-* Resoluções comentadas
-* Produção de gabaritos
-* Organização pedagógica de conteúdos
-* Aulas e monitorias
+* Development of educational booklets
+* Preparation of problem sets
+* Commented solutions
+* Answer keys and support materials
+* Educational content organization
+* Teaching and tutoring activities
 
 ---
-🏅 Certificados e Conquistas
-Esta seção reúne certificados de participação, menções e reconhecimentos obtidos em olimpíadas científicas, atividades acadêmicas e experiências formativas ao longo da trajetória educacional.
 
-Os documentos têm caráter de comprovação de participação e desempenho em atividades como:
-
-Olimpíadas científicas (ex: OBA e outras competições acadêmicas)
-Atividades de monitoria e apoio acadêmico
-Projetos e iniciativas de ensino e divulgação científica
-Experiências formativas em instituições e programas educacionais
-
-📁 Os certificados podem ser encontrados organizados na pasta certificados/, quando aplicável.
 ## 🌠 GEDUC / Fórum AdAstra
 
-Participação em iniciativas de ensino e produção de materiais de apoio para formação científica.
+Participation in educational initiatives focused on Astronomy outreach and olympiad preparation.
 
-### Atividades
+### Activities
 
-* Produção de materiais didáticos
-* Desenvolvimento de listas e exercícios
-* Produção de gabaritos comentados
-* Organização de conteúdos para preparação olímpica
-
----
-
-## 📐 Monitoria — MA141 (UNICAMP)
-
-Atuação como monitor da disciplina de Geometria Analítica da Universidade Estadual de Campinas (UNICAMP).
-
-### Atividades
-
-* Apoio aos estudantes da disciplina
-* Produção de materiais complementares
-* Desenvolvimento de listas e gabaritos
-* Auxílio em resolução de problemas
-* Organização de conteúdos de geometria analítica
+* Production of educational materials
+* Development of exercises and problem sets
+* Commented answer keys
+* Scientific content organization
+* Olympiad training support
 
 ---
 
-# 🌌 Conteúdos Disponíveis
+## 📐 Monitor — MA141 (UNICAMP)
 
-## 🔭 Astronomia e Astrofísica
+Teaching Assistant for Analytical Geometry at the University of Campinas (UNICAMP).
 
-* Magnitudes e Paralaxe
-* Fotometria
-* Luminosidade e Fluxo
-* Sistemas Binários
-* Extinção Interestelar
-* Avermelhamento
-* Gravitação
-* Mecânica Celeste
-* Órbitas Cônicas
-* Cosmologia
-* Distâncias Astronômicas
-* Redshift Cosmológico
-* Lei de Hubble
-* Astrofísica Estelar
+### Activities
+
+* Academic support for students
+* Development of supplementary materials
+* Preparation of problem sets
+* Commented solutions and answer keys
+* Assistance with problem-solving strategies
 
 ---
 
-## 📐 Matemática
+## ⚙️ Monitor — Physics I (UNICAMP)
 
-* Geometria Analítica
-* Vetores
-* Retas e Planos
-* Cônicas
-* Coordenadas Polares
+Teaching Assistant for introductory Physics courses.
 
----
+### Activities
 
-# 🏅 Olimpíadas Científicas
-
-## OBA — Olimpíada Brasileira de Astronomia e Astronáutica
-
-Participação como coautor na elaboração de gabaritos comentados da OBA 2026.
-
-### Atividades
-
-* Resolução de problemas
-* Revisão conceitual
-* Estruturação pedagógica
-* Organização de gabaritos comentados
-* Apoio à preparação olímpica
+* Student support sessions
+* Exercise solving
+* Development of educational materials
+* Conceptual review and tutoring
+* Academic mentoring
 
 ---
 
-# 🧠 Projetos Acadêmicos
+# 🏅 Certificates and Achievements
+
+This section gathers certificates, awards, medals, honorable mentions, and recognitions obtained through scientific olympiads, academic activities, teaching experiences, and educational projects.
+
+Examples include:
+
+* Scientific Olympiads (OBA, OBF, OIAA, among others)
+* University tutoring activities
+* Outreach projects
+* Academic events
+* Educational programs
+* Research and extension activities
+
+📁 Documents are organized within the `certificates/` directory whenever applicable.
+
+---
+
+# 🌌 Available Content
+
+## 🔭 Astronomy & Astrophysics
+
+* Magnitudes and Parallax
+* Photometry
+* Luminosity and Flux
+* Binary Star Systems
+* Interstellar Extinction
+* Reddening
+* Gravitation
+* Celestial Mechanics
+* Conic Orbits
+* Cosmology
+* Astronomical Distances
+* Cosmological Redshift
+* Hubble's Law
+* Stellar Astrophysics
+
+---
+
+## ⚛️ Physics
+
+* Classical Mechanics
+* Gravitation
+* Oscillations
+* Waves
+* Electromagnetism
+* Thermodynamics
+* Problem Solving
+
+---
+
+## 📐 Mathematics
+
+* Analytical Geometry
+* Vectors
+* Lines and Planes
+* Conic Sections
+* Polar Coordinates
+* Calculus Support Materials
+
+---
+
+# 🏅 Scientific Olympiads
+
+## OBA — Brazilian Astronomy and Astronautics Olympiad
+
+Participation as co-author in the preparation of commented solutions for OBA 2026.
+
+### Activities
+
+* Problem solving
+* Conceptual review
+* Educational structuring
+* Development of commented answer keys
+* Olympiad preparation support
+
+---
+
+## Olympiad Materials
+
+Repository section dedicated to:
+
+* Commented solutions
+* Training problem sets
+* Theoretical notes
+* Competition preparation materials
+* Educational resources for scientific olympiads
+
+---
+
+# 🧠 Academic Projects
 
 ## Apostila Magna
 
-Produção de capítulo para apostila de formação em astronomia/física.
+Development of a comprehensive educational chapter in Astronomy and Physics.
 
 ### Status
 
-* Em desenvolvimento
+* Under Development
 
 ---
 
-# 📂 Estrutura do Repositório
+# 📂 Repository Structure
 
 ```text
 teaching-portfolio/
@@ -144,63 +215,74 @@ teaching-portfolio/
 ├── README.md
 ├── LICENSE
 │
-├── astronomia/
-│   │
-│   ├── magnitudes-e-paralaxe/
-│   ├── estrelas-binarias/
-│   ├── fotometria/
-│   ├── cosmologia/
-│   ├── mecanica-celeste/
-│   ├── extincao-interestelar/
-│   └── avermelhamento/
+├── astronomy/
+│   ├── magnitudes-and-parallax/
+│   ├── binary-stars/
+│   ├── photometry/
+│   ├── cosmology/
+│   ├── celestial-mechanics/
+│   ├── interstellar-extinction/
+│   └── reddening/
 │
-├── matematica/
-│   │
-│   └── geometria-analitica/
+├── physics/
 │
-├── olimpiadas/
-│   │
+├── mathematics/
+│   └── analytical-geometry/
+│
+├── olympiads/
 │   ├── OBA/
 │   ├── OIAA/
-│   └── problemas-resolvidos/
+│   └── solved-problems/
 │
-├── projetos/
-│   │
+├── projects/
 │   └── apostila-magna/
+│
+├── certificates/
+│
+├── awards/
 │
 └── assets/
 ```
 
 ---
 
-# 📘 Exemplos de Materiais
+# 📘 Sample Materials
 
-| Área                   | Material                    | Tipo                  |
-| ---------------------- | --------------------------- | --------------------- |
-| Astronomia             | Magnitudes e Paralaxe       | Apostila              |
-| Astronomia             | Estrelas Binárias           | Apostila + Exercícios |
-| Astronomia             | Gravitação e Leis de Kepler | Apostila              |
-| Astrofísica            | Cosmologia                  | Notas                 |
-| Matemática             | Geometria Analítica         | Teoria + Exercícios   |
-| Olimpíadas Científicas | Gabaritos OBA 2026          | Coautoria             |
-| Olimpíadas Científicas | Problemas Resolvidos        | Gabaritos             |
-
----
-
-# 🔬 Áreas de Interesse
-
-* Astrofísica
-* Cosmologia
-* Mecânica Celeste
-* Astronomia Olímpica
-* Física Matemática
-* Ensino de Ciências
-* Divulgação Científica
-* Física Computacional
+| Area         | Material                      | Type                |
+| ------------ | ----------------------------- | ------------------- |
+| Astronomy    | Magnitudes and Parallax       | Lecture Notes       |
+| Astronomy    | Binary Stars                  | Notes + Exercises   |
+| Astronomy    | Gravitation and Kepler's Laws | Educational Booklet |
+| Astrophysics | Cosmology                     | Lecture Notes       |
+| Mathematics  | Analytical Geometry           | Theory + Exercises  |
+| Olympiads    | OBA 2026 Solutions            | Co-authorship       |
+| Olympiads    | Solved Problems Collection    | Answer Keys         |
 
 ---
 
-# 🛠️ Ferramentas
+# 🎓 Teaching Philosophy
+
+I believe that education in Physics, Mathematics, and Astronomy should combine conceptual rigor, physical intuition, and structured problem-solving.
+
+The materials gathered in this repository aim to provide accessible, organized, and pedagogically effective resources for students at different levels of scientific training.
+
+---
+
+# 🔬 Research and Academic Interests
+
+* Astrophysics
+* Cosmology
+* Celestial Mechanics
+* Astronomy Olympiads
+* Mathematical Physics
+* Science Education
+* Scientific Outreach
+* Computational Physics
+* High Energy Physics
+
+---
+
+# 🛠️ Tools and Technologies
 
 * LaTeX
 * Python
@@ -211,40 +293,42 @@ teaching-portfolio/
 
 ---
 
-# ⚠️ Observação sobre autoria
+# ⚠️ Authorship Notice
 
-Parte dos materiais presentes neste repositório contém adaptações, reorganizações e compilações baseadas em referências acadêmicas, listas olímpicas, notas de aula e materiais educacionais diversos.
+Part of the material available in this repository contains adaptations, compilations, and reorganizations based on academic references, lecture notes, olympiad resources, and educational materials.
 
-Sempre que possível, as referências utilizadas são explicitamente citadas ao final dos documentos.
+Whenever possible, original references are properly acknowledged and cited within the documents.
 
-O objetivo deste repositório é educacional e de divulgação científica.
-
----
-
-# 📄 Licença
-
-Os materiais deste repositório estão licenciados sob:
-
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-
-Isso permite:
-
-* compartilhamento;
-* adaptação;
-* uso educacional não comercial;
-* manutenção dos créditos.
+This repository is intended exclusively for educational and scientific outreach purposes.
 
 ---
 
-# 📬 Contato
+# 📄 License
+
+The materials in this repository are licensed under:
+
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
+
+This license permits:
+
+* Sharing
+* Adaptation
+* Non-commercial educational use
+* Proper attribution
+
+---
+
+# 📬 Contact
 
 * GitHub: https://github.com/gustavosbarroso
-* Currículo Lattes: [LINK_AQUI](https://lattes.cnpq.br/2804106211668939)
-* E-mail: gustavo.s.barroso@gmail.com
+* Lattes CV: https://lattes.cnpq.br/2804106211668939
+* E-mail: [gustavo.s.barroso@gmail.com]
 
 ---
 
-# ⭐ Objetivo do Repositório
+# 🚀 Repository Mission
 
-Este repositório busca reunir materiais produzidos ao longo da formação acadêmica e participação em projetos de ensino, funcionando como um portfólio educacional e acadêmico voltado para astronomia, física e matemática.
+This repository aims to preserve, organize, and share educational resources developed throughout academic training, teaching activities, scientific outreach projects, and participation in scientific olympiads.
+
+Its purpose is to serve as an open educational portfolio dedicated to Astronomy, Astrophysics, Physics, and Mathematics.
 
